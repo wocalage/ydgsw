@@ -8,7 +8,7 @@ import com.wocalage.ydgsw.R;
 /**
  * Created by jiaojian on 2017/8/11.
  */
-public class MainActivity extends FragmentActivity {
+public class Main extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
